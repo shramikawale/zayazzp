@@ -1,4 +1,4 @@
-<img align='right' src='./assets/markdown/github.gif' width='200"'>
+<img align='right' src='https://github.com/zayazzp/zayazzp/blob/master/assets/markdown/github.gif' width='200"'>
 
 # Jayas Piya
 
