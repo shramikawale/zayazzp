@@ -4,6 +4,6 @@ A self-motivated and passionate student pursuing a web development career with a
 
 |
 
-## ![Github Logo](./assets/markdown/github.gif)
+![Github Logo](./assets/markdown/github.gif)
 
 ---
