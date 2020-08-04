@@ -4,15 +4,12 @@
 
 A self-motivated and passionate student pursuing a web development career with a clear understanding of UI/UX design and Digital Marketing knowledge. Motivated to learn and grow every day to progress slow and steady. Who believes that together we can achieve more.
 
-<img align='left' src='./assets/icons/facebook.svg' width='50"'>
-<img align='left' src='./assets/icons/instagram.svg' width='60"'>
-<img align='left' src='./assets/icons/linkedin.svg' width='50"'>
-<img align='left' src='./assets/icons/twitter.svg' width='50"'>(https://twitter.com/PiyaJayas)
+[<img align='left' src='./assets/icons/facebook.svg' width='50"'>][facebook]
+[<img align='left' src='./assets/icons/instagram.svg' width='60"'>][instagram]
+[<img align='left' src='./assets/icons/linkedin.svg' width='50"'>][linkedin]
+[<img align='left' src='./assets/icons/twitter.svg' width='50"'>][twitter]
 
-<br>
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[facebook]: https://www.facebook.com/Zayazz.p
+[instagram]: https://www.instagram.com/zayazz.p/
+[linkedin]: #
+[twitter]: #
