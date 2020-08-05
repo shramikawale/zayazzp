@@ -6,10 +6,10 @@ A self-motivated and passionate student pursuing a web development career with a
 
 ![Jayas Piya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayazzp&show_icons=true&include_all_commits=true)
 
-[<img align='left' src='https://github.com/zayazzp/zayazzp/blob/master/assets/icons/facebook.png' width='30"'>][facebook]
-[<img align='left' src='https://github.com/zayazzp/zayazzp/blob/master/assets/icons/instagram.png' width='30"'>][instagram]
-[<img align='left' src='https://github.com/zayazzp/zayazzp/blob/master/assets/icons/linkedin.png' width='30"'>][linkedin]
-[<img align='left' src='https://github.com/zayazzp/zayazzp/blob/master/assets/icons/twitter.png' width='30"'>][twitter]
+[<img align='center' src='https://github.com/zayazzp/zayazzp/blob/master/assets/icons/facebook.png' width='30"'>][facebook]
+[<img align='center' src='https://github.com/zayazzp/zayazzp/blob/master/assets/icons/instagram.png' width='30"'>][instagram]
+[<img align='center' src='https://github.com/zayazzp/zayazzp/blob/master/assets/icons/linkedin.png' width='30"'>][linkedin]
+[<img align='center' src='https://github.com/zayazzp/zayazzp/blob/master/assets/icons/twitter.png' width='30"'>][twitter]
 
 [facebook]: https://www.facebook.com/Zayazz.p
 [instagram]: https://www.instagram.com/zayazz.p/
