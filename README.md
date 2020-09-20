@@ -2,7 +2,7 @@
 
 # :pizza: Jayas Piya :pizza:
 
-A self-motivated and passionate student pursuing a web development career with a clear understanding of UI/UX design and Digital Marketing knowledge. Motivated to learn and grow every day to progress slow and steady. Who believes that together we can achieve more.
+A self-motivated and passionate student motivated to learn and grow every day. Who believes that together we can achieve more.
 
 ![Jayas Piya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayazzp&show_icons=true&include_all_commits=false)
 
