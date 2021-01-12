@@ -1,5 +1,3 @@
-<img align='right' src='https://github.com/zayazzp/zayazzp/blob/master/assets/markdown/github.gif' width='200"'>
-
 # :pizza: Jayas Piya :pizza:
 
 A self-motivated and passionate student motivated to learn and grow every day.<br>Who believes that together we can achieve more.
