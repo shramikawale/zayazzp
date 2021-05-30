@@ -1,7 +1,5 @@
 # :pizza: Jayas Piya :pizza:
 
-A self-motivated and passionate student motivated to learn and grow every day.<br>Who believes that together we can achieve more.
-
 ![Jayas Piya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zayazzp&show_icons=true&include_all_commits=false)
 
 [<img align='left' src='https://github.com/zayazzp/zayazzp/blob/master/assets/icons/facebook.png' width='35"'>][facebook]
